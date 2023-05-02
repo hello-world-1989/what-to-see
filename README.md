@@ -33,13 +33,20 @@
 [德国之声](https://www.dw.com/zh/)
 
  # Twitter活动人士
-[李老师不是你老师](https://twitter.com/whyyoutouzhele)
+[李老师不是你老师推特](https://twitter.com/whyyoutouzhele)
+[本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/%E6%9D%8E%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E4%BD%A0%E8%80%81%E5%B8%88.md)
 
-[多伦多方脸](https://twitter.com/torontobigface)
+[多伦多方脸推特](https://twitter.com/torontobigface)
+[本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/%E5%A4%9A%E4%BC%A6%E5%A4%9A%E6%96%B9%E8%84%B8.md)
 
-[李承鹏](https://twitter.com/dayangelcp)
+[王歪嘴推特](https://twitter.com/yajunwwz)
+[本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/%E7%8E%8B%E6%AD%AA%E5%98%B4.md)
 
-[王歪嘴](https://twitter.com/yajunwwz)
+[蔡霞推特](https://twitter.com/realcaixia)
+[本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/%E8%94%A1%E9%9C%9E.md)
+
+[Ivy未央推特](https://twitter.com/Ivy01011)
+[本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/Ivy%E6%9C%AA%E5%A4%AE.md)
 
 [白纸运动 白纸革命]
 
