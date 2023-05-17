@@ -18,9 +18,9 @@
 [Youtube频道之五岳散人](https://www.youtube.com/@wuyuesanren)
 
  # 新闻网站
-[综合新闻网站](https://www.chinanewsx.com/)
+[综合新闻网站](https://www.chinanewsx.com/) [免翻墙查看](https://github.com/duty-machine/news/tree/main/lists)
 
-[法广](https://www.rfi.fr/cn/)
+[法广](https://www.rfi.fr/cn/) [免翻墙查看](https://github.com/hello-world-1989/cn-news/tree/main/%E6%96%B0%E9%97%BB)
 
 [自由亚洲电台](https://www.rfa.org/mandarin)
 
@@ -51,20 +51,23 @@
 [白纸运动 白纸革命]
 
 # 其它工具
+
+[Session聊天--澳洲开发,无需手机号邮箱无审查,仅第一次使用需翻墙](https://getsession.org/)
+
+[Jami聊天--加拿大开发,无需手机号邮箱无审查,无需翻墙使用](https://jami.net/#)
+
+[Briar在线离线聊天--美国政府资助开发,仅安卓,蓝牙聊天,局域网聊天](https://briarproject.org/)
+
+[APK Pure下载安卓应用APK](https://apkpure.com/)
+
 [自由微博--查看被微博屏蔽文章](https://freeweibo.com/)
 
 [自由微信--查看被微信屏蔽文章](https://freewechat.com/)
 
 [自由知乎--查看被知乎屏蔽文章](https://freezhihu.org/)
 
-[Delta Chat邮箱聊天](https://delta.chat/zh_CN/)
-
-[Briar离线聊天--蓝牙聊天， 局域网聊天](https://briarproject.org/)
-
 [Telegram聊天](https://telegram.org/)
 
 [OONI Probe检测GFW屏蔽方式](https://www.opentech.fund/results/supported-projects/ooni-open-observatory-of-network-interference/)
-
-[APK Pure下载APK](https://apkpure.com/)
 
 [Tor browser浏览器](https://www.torproject.org/download/)
