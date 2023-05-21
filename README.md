@@ -15,8 +15,6 @@
 
 [Youtube频道之Leonard](https://www.youtube.com/channel/UC1mx_wcSHtfpLk5N_zY0TRg)
 
-[Youtube频道之五岳散人](https://www.youtube.com/@wuyuesanren)
-
  # 新闻网站
 [综合新闻网站](https://www.chinanewsx.com/) [免翻墙查看](https://github.com/duty-machine/news/tree/main/lists)
 
@@ -52,11 +50,13 @@
 
 # 其它工具
 
-[Session聊天--澳洲开发,无需手机号邮箱无审查,仅第一次使用需翻墙](https://getsession.org/)
+[Session通讯--澳洲开发,无需手机号邮箱无审查,仅第一次使用需翻墙](https://getsession.org/)
 
-[Jami聊天--加拿大开发,无需手机号邮箱无审查,无需翻墙使用](https://jami.net/#)
+[Skred通讯--法国开发,无需手机号邮箱无审查](https://skred.mobi/en/accueil/)
 
-[Briar在线离线聊天--美国政府资助开发,仅安卓,蓝牙聊天,局域网聊天](https://briarproject.org/)
+[Jami通讯--加拿大开发,无需手机号邮箱无审查,无需翻墙使用](https://jami.net/#)
+
+[Briar在线离线通讯--美国政府资助开发,仅安卓,蓝牙,局域网](https://briarproject.org/)
 
 [APK Pure下载安卓应用APK](https://apkpure.com/)
 
@@ -66,7 +66,7 @@
 
 [自由知乎--查看被知乎屏蔽文章](https://freezhihu.org/)
 
-[Telegram聊天](https://telegram.org/)
+[Telegram通讯](https://telegram.org/)
 
 [OONI Probe检测GFW屏蔽方式](https://www.opentech.fund/results/supported-projects/ooni-open-observatory-of-network-interference/)
 
