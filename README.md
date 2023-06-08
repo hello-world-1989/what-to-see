@@ -15,24 +15,9 @@
 
 [Youtube频道之Leonard](https://www.youtube.com/channel/UC1mx_wcSHtfpLk5N_zY0TRg)
 
- # 新闻网站
-[综合新闻网站](https://www.chinanewsx.com/) [免翻墙查看](https://github.com/duty-machine/news/tree/main/lists)
-
-[法广](https://www.rfi.fr/cn/) [免翻墙查看](https://github.com/hello-world-1989/cn-news/tree/main/%E6%96%B0%E9%97%BB)
-
-[自由亚洲电台](https://www.rfa.org/mandarin)
-
-[BBC中文](https://www.bbc.com/zhongwen/simp)
-
-[大纪元](https://www.epochtimes.com/)
-
-[美国之音](https://www.voachinese.com/)
-
-[德国之声](https://www.dw.com/zh/)
-
  # Twitter活动人士
 [李老师不是你老师推特](https://twitter.com/whyyoutouzhele)
-[本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/%E6%9D%8E%E8%80%81%E5%B8%88%E4%B8%8D%E6%98%AF%E4%BD%A0%E8%80%81%E5%B8%88.md)
+[本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/t-Month-6/s-Day-07/)
 
 [多伦多方脸推特](https://twitter.com/torontobigface)
 [本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/%E5%A4%9A%E4%BC%A6%E5%A4%9A%E6%96%B9%E8%84%B8.md)
@@ -47,6 +32,21 @@
 [本站免翻墙查看](https://github.com/hello-world-1989/cn-news/blob/main/%E6%8E%A8%E7%89%B9/2023/u-Month-5/x-Day-02/Ivy%E6%9C%AA%E5%A4%AE.md)
 
 [白纸运动 白纸革命]
+
+# 新闻网站
+[综合新闻网站](https://www.chinanewsx.com/) [免翻墙查看](https://github.com/duty-machine/news/tree/main/lists)
+
+[法广](https://www.rfi.fr/cn/) [免翻墙查看](https://github.com/hello-world-1989/cn-news/tree/main/%E6%96%B0%E9%97%BB)
+
+[自由亚洲电台](https://www.rfa.org/mandarin)
+
+[BBC中文](https://www.bbc.com/zhongwen/simp)
+
+[大纪元](https://www.epochtimes.com/)
+
+[美国之音](https://www.voachinese.com/)
+
+[德国之声](https://www.dw.com/zh/)
 
 # 其它工具
 
